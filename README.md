@@ -18,5 +18,8 @@ I will describe, how to solve some challenges, that are not presented in [this r
   * **[Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis/Java-code-analysis.md)**
 * Reverse Engineering
   * **[No way out](Reverse%20Engineering/No%20way%20out/No-way-out.md)**
+* Binary Exploitation
+    * **[babygame02 (RU)](Binary%20Exploitation/babygame02/babygame02.md)**
+    * **[tic-tac (RU)](Binary%20Exploitation/tic-tac/tic-tac.md)**
 
 Full solutions to the challenges are provided in the write ups, however the actual flag values are withheld.

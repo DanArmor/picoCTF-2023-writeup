@@ -13,7 +13,7 @@ This event writeup is a work in progress
 I will describe, how to solve some challenges, that are not presented in [this repo](https://github.com/snwau/picoCTF-2023-Writeup), that was original inspiration for creating my own writeup repo.
 
 * Web Exploitation
-  * SOAP
+  * **[SOAP](Web%20Exploitation/SOAP/SOAP.md)**
   * **[More SQLi](Web%20Exploitation/More%20SQLi/More-SQLi.md)**
   * **[Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis/Java-code-analysis.md)**
 * Reverse Engineering

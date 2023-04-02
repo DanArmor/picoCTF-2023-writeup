@@ -14,7 +14,7 @@ I will describe, how to solve some challenges, that are not presented in [this r
 
 * Web Exploitation
   * SOAP
-  * More SQLi
+  * **[More SQLi](Web%20Exploitation/More%20SQLi/More-SQLi.md)**
   * **[Java Code Analysis](Web%20Exploitation/Java%20Code%20Analysis/Java-code-analysis.md)**
 * Reverse Engineering
   * **[No way out](Reverse%20Engineering/No%20way%20out/No-way-out.md)**

@@ -12,6 +12,8 @@ This event writeup is a work in progress
 
 I will describe, how to solve some challenges, that are not presented in [this repo](https://github.com/snwau/picoCTF-2023-Writeup), that was original inspiration for creating my own writeup repo.
 
+* Cryptography
+  * **[HideToSee](Cryptography/HideToSee/HideToSee.md)**
 * Web Exploitation
   * **[SOAP](Web%20Exploitation/SOAP/SOAP.md)**
   * **[More SQLi](Web%20Exploitation/More%20SQLi/More-SQLi.md)**

@@ -21,7 +21,7 @@ I will describe, how to solve some challenges, that are not presented in [this r
 * Reverse Engineering
   * **[No way out](Reverse%20Engineering/No%20way%20out/No-way-out.md)**
 * Binary Exploitation
-    * **[babygame02 (RU)](Binary%20Exploitation/babygame02/babygame02.md)**
-    * **[tic-tac (RU)](Binary%20Exploitation/tic-tac/tic-tac.md)**
+    * **[babygame02 (EN :gb:)](Binary%20Exploitation/babygame02/babygame02.md)** | **[babygame02 (RU :ru:)](Binary%20Exploitation/babygame02/babygame02-ru.md)**
+    * **[tic-tac (EN :gb:)](Binary%20Exploitation/tic-tac/tic-tac.md)** | **[tic-tac (RU :ru:)](Binary%20Exploitation/tic-tac/tic-tac-ru.md)**
 
 Full solutions to the challenges are provided in the write ups, however the actual flag values are withheld.

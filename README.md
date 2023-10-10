@@ -2,7 +2,7 @@
 
 ## Overview
 
-I participated in the [picoCTF](www.picoctf.org) 2023 competition with a team in the Global category, which ran from *Mar 15 2023* to *Mar 29 2023*
+I participated in the [picoCTF](https://www.picoctf.org) 2023 competition with a team in the Global category, which ran from *Mar 15 2023* to *Mar 29 2023*
 
 ## Progress
 ![Team challenge progress during event](scores.jpg)
